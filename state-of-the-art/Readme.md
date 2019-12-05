@@ -6,6 +6,8 @@ If you notice any result or the public code that has not been included in this t
 # VeRi-776
 |**Methods**|**Rank@1**|**Rank@5**|**Map**|**Year**|**Reference**|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+|Part-Regular|94.3%|98.7%|74.3%|CVVPR2019|"Part-regularized near-duplicate vehicle re-identiﬁcation"B.He, et al [pdf](http://openaccess.thecvf.com/content_CVPR_2019/html/He_Part-Regularized_Near-Duplicate_Vehicle_Re-Identification_CVPR_2019_paper.html)|
+|RPN|97.14%|99.40%|85.84%|CVPR2019|" Partition and Reunion: A Two-Branch Neural Network for Vehicle Re-identification"Chen H, Lagadec B, Bremond F. [pdf](http://openaccess.thecvf.com/content_CVPRW_2019/html/AI_City/Chen_Partition_and_Reunion_A_Two-Branch_Neural_Network_for_Vehicle_Re-identification_CVPRW_2019_paper.html)|
 |QD-DLF|88.50%|94.46%|61.83%|TITS2019|"Vehicle Re-Identification Using Quadruple Directional Deep Learning Features", Zhu, J., Zeng, H., Huang, J., Liao, S., Lei, Z., Cai, C., & Zheng, L [pdf](https://arxiv.org/pdf/1811.05163.pdf)|
 |Hard-View-EALN|84.39%|94.05%|57.44%|TIP2019|"Embedding Adversarial Learning for Vehicle Re-Identification." Lou, Yihang, et al [paper](https://ieeexplore.ieee.org/abstract/document/8653852/)|
 |RAM|88.6%|94.0%|61.5%|ICME2018|"Ram: a region-aware deep model for vehicle re-identification." Liu, Xiaobin, et al [paper](https://arxiv.org/pdf/1806.09283)|
